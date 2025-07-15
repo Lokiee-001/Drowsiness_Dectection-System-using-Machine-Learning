@@ -18,8 +18,7 @@ A Python and OpenCV-based project for real-time driver drowsiness and yawn detec
 ## 👨‍💻 Developed By
 
 **Lokeshwar L**  
-> Final Year BCA Student  
-> [Feel free to add your LinkedIn/GitHub profile here]
+> Final Year B.tech Student  
 
 ---
 
